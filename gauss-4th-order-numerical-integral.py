@@ -41,5 +41,6 @@ plt.legend(["Approximation"," N^(-3)"])
 
 """
 we can see, that the gauss algortihm achieves an accuracy of approx. 10^-7 with less
-than 100 intervalls.
+than 100 intervalls. the next step is using adaptive intervalls. you can find an
+adaptive integrator among my repos.
 """
